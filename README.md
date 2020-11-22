@@ -10,7 +10,7 @@
 
 ## Videotutoriales
 
--  [Creación del Monederol](https://www.youtube.com/watch?v=2jdA5EwQV9M&list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK&index=1)
+-  [Creación del Monedero](https://www.youtube.com/watch?v=2jdA5EwQV9M&list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK&index=1)
 -  [Staking Delegado](https://www.youtube.com/watch?v=7CNAUnGukgc&list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK&index=2&t=63s)
 -  [Velas Wallet - Ventana de ajustes](https://www.youtube.com/watch?v=vZtLMnXaDc4&list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK&index=3)
 -  [Velas Wallet - Recuperación del Monedero - Tutorial](https://www.youtube.com/watch?v=p8HgQoY2SvQ&list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK&index=4)
