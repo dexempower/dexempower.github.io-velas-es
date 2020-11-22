@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
-# Velas Blockchain Manuales de Usuario ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/UserGuides.png?raw=true)
+# Velas Blockchain<>Manuales de Usuario ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/UserGuides.png?raw=true)
 
 -   [Creación Monedero Velas Wallet](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-wallet/2020/11/20/velas-wallet-creation)
 -   [Guía Delegate Staking](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
