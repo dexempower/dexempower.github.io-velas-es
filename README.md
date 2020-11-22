@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
+# <<<<<WEB EN DESARROLLO / WORK IN PROGRESS>>>>>
+
 # Velas Blockchain<>Manuales de Usuario ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/UserGuides.png?raw=true)
 
 -   [Creación Monedero Velas Wallet](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-wallet/2020/11/20/velas-wallet-creation)
